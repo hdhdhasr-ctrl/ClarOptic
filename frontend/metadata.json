@@ -1,0 +1,6 @@
+{
+  "name": "ClarOptic CPL Filter Landing Page",
+  "description": "A high-converting, premium e-commerce landing page for the ClarOptic 52mm Clip-On Circular Polarizer Filter for iPhone & Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
